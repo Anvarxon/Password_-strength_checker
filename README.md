@@ -1,4 +1,4 @@
-# Password_-strength_checker
+# Password_strength_checker
 C# learning - console app. Program measures the strength of any given password based on the following criteria.
 
 A strong password:
